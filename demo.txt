@@ -1,3 +1,1 @@
-hello world ! 
-Git learning project.
-Use dir command to get all the list
+hello Sir ! 
